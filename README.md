@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Theojims
+- 👋 Hi, I’m Theophilus Nwuchiola
 - 👀  I’m currently a data analyst/scientist
 - 🌱 🌱 I’m proficient in SQL, POWERBI, SPSS, EXCEL, PYTHON
 - 💞️ I’m looking to collaborate with other Programmers
